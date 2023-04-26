@@ -1,3 +1,3 @@
 # Python
-Son ejercicios vistos en clases del curso de Python Essentials :)
+Carpetas correspondientes a las clases del curso recibido de Python Essentials :)
 by Majo Romero
